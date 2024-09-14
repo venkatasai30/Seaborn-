@@ -10,14 +10,24 @@ Techniques for enhancing plot aesthetics and clarity
 Practical usage of Seaborn with the FIFA dataset
 # Key Features:
 Histograms and KDE plots: Visualize distributions of numerical data.
+
 Count plots: Display the frequency of categorical data.
+
 Box and Violin plots: Compare distributions and visualize summary statistics.
+
 Scatter and Regression plots: Explore relationships between variables with optional regression lines.
+
 Facet and Pair grids: Create complex multi-dimensional visualizations.
+
 Customizations: Modify plot aesthetics, apply color palettes, and control figure sizes.
+
 # Prerequisites:
 Python 3
+
 Pandas
+
 Seaborn
+
 Matplotlib
+
 Numpy
